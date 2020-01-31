@@ -27,6 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
+ -- Client Routing, faster, optimized, no network payload.
+
 > Answer:
 
 ## Project Set Up
