@@ -25,7 +25,7 @@ export default function CharacterList() {
 // }
   return (
     <section className="character-list">
-      <SearchForm />
+
       <div className=" grid-view">
         {character.map(characters => {
           return (
